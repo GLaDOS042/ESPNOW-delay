@@ -1,0 +1,15 @@
+{
+  "name": "espnow-delay",
+  "version": "1.0.0",
+  "description": "Test the delay of espnow",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^12.0.0",
+    "winston": "^3.14.2"
+  }
+}
